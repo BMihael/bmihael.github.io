@@ -1,0 +1,22 @@
+#section_roadmap {}
+
+.roadmap_item {
+    width: 100%;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    box-shadow: 0 2px 4px 0 rgba(123, 123, 123, 0.1);
+}
+
+.roadmap_item:hover {
+    box-shadow: 0 2px 4px 0 rgba(123, 123, 123, 0.7);
+}
+
+#section_roadmap {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
