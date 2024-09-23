@@ -1,0 +1,12 @@
+#section_footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+    background-color: aquamarine;
+}
+
+#section_footer table {
+    background-color: beige;
+}
